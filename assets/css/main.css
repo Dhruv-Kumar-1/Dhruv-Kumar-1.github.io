@@ -428,9 +428,15 @@ img {
   font-size: 1.1rem;
 }
 
-#nav {
+/* #nav {
   background: url(../images/background.png);
   background-repeat: repeat;
+} */
+.section-wrapper:nth-child(odd) {
+  background-image: url(../images/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 a {
