@@ -30,7 +30,7 @@ img {
   background: transparent;
 }
 
-.head-title {
+/* .head-title {
   display: inline-block;
   -webkit-transition: color ease-in-out 0.3s;
   transition: color ease-in-out 0.3s;
@@ -38,6 +38,16 @@ img {
   font-size: 3.5rem;
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
   font-weight: bold;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Argent+CF&display=swap');
+
+.head-title {
+  display: inline-block;
+  transition: color ease-in-out 0.3s;
+  font-size: 56px;
+  font-size: 3.5rem;
+  font-family: 'Argent CF', serif;
+  font-weight: normal;
 }
 
 .animated {
