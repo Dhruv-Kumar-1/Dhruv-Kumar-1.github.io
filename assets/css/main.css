@@ -1,6 +1,7 @@
 body {
   min-width: 360px;
-  font-family: 'PT Sans', sans-serif;
+/*   font-family: 'PT Sans', sans-serif; */
+  font-family: 'Argent CF', serif;
   font-size: 16px;
 }
 
@@ -90,7 +91,7 @@ img {
 }
 
 .head-punchline {
-  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Argent CF', Arial, Helvetica, sans-serif;
   text-align: center;
   color: #fff;
   margin-top: 10px;
@@ -203,7 +204,7 @@ img {
 .section-heading {
   text-align: center;
   margin-bottom: 30px;
-  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Argent CF', Arial, Helvetica, sans-serif;
   font-size: 40px;
   font-size: 2.5rem;
   color: #222;
@@ -211,7 +212,7 @@ img {
 }
 
 .nav-links {
-  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Argent CF', Arial, Helvetica, sans-serif;
   font-weight: bold;
 }
 
@@ -239,7 +240,7 @@ img {
 }
 
 .paragraph-text {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Argent CF', sans-serif;
   font-size: 20.8px;
   font-size: 1.3rem;
   margin: 30px auto;
@@ -247,12 +248,12 @@ img {
 }
 
 .paragraph-text-normal {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Argent CF', sans-serif;
   color: #404040;
 }
 
 .pt-sans-font {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Argent CF', sans-serif;
 }
 
 .skill-grid-item {
@@ -296,7 +297,7 @@ img {
           align-items: center;
   min-height: 35px;
   color: #fff;
-  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Argent CF', Arial, Helvetica, sans-serif;
 
 /*   background: url(../images/background.png);
   background-repeat: repeat;
@@ -330,7 +331,7 @@ img {
   font-weight: bold;
   font-size: 20px;
   font-size: 1.25rem;
-  font-family: Arial, sans-serif;
+  font-family: Argent CF, sans-serif;
   margin: 10px 0 20px;
   display: -webkit-box;
   display: -ms-flexbox;
